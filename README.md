@@ -18,6 +18,16 @@ npm install openai-assistant-sdk
 
 ## Usage
 
+### Response
+
+```javascript
+{
+  message: "Absolutely, I'd love to help! What's the issue you're experiencing?",
+  timestamp: 1705522107522,
+  thread_id: 'thread_xxxxxxxxxxxxx'
+}
+```
+
 ### Basic Usage
 
 To start using the SDK, you'll need to set up your OpenAI API key in your environment variables. Then, you can create an instance of OpenAIAssistant and interact with OpenAI's API.
