@@ -14,10 +14,18 @@
     "OpenAI",
     "Assistant"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webnexus-uk/openai-assistant-sdk"
+  },
   "author": "Coding Nexus",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
     "openai": "^4.24.7"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/webnexus-uk/openai-assistant-sdk/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/openai-assistant-sdk"
 }
