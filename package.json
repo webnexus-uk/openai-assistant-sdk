@@ -1,0 +1,23 @@
+{
+  "name": "openai-assistant-sdk",
+  "version": "1.0.5",
+  "description": "An easy way to access the OpenAI Assistant and show it on your website/application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenAI",
+    "ChatGPT",
+    "GPT-4",
+    "GPT-3.5-turbo",
+    "OpenAI",
+    "Assistant"
+  ],
+  "author": "Coding Nexus",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.24.7"
+  }
+}
