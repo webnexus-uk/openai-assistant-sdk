@@ -1,6 +1,6 @@
 {
   "name": "openai-assistant-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An easy way to access the OpenAI Assistant and show it on your website/application.",
   "main": "index.js",
   "scripts": {
