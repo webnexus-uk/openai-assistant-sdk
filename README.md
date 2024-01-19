@@ -1,6 +1,6 @@
 # openai-assistant-sdk
 
-`openai-assistant-sdk` is a Node.js package designed to simplify interactions with OpenAI's API, particularly for managing conversations (threads) and processing responses with OpenAI's GPT models. This SDK handles thread creation, message sending, and response processing in a structured and easy-to-use manner.
+`openai-assistant-sdk` is a Node.js package designed to simplify interactions with OpenAI's Assistant API, particularly for managing conversations (threads) and processing responses with OpenAI's GPT models. This SDK handles thread creation, message sending, and response processing in a structured and easy-to-use manner.
 
 ## Features
 
