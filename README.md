@@ -63,11 +63,9 @@ require("dotenv").config();
 
 async function main() {
   try {
-    const assistant = new OpenAIAssistant(
-      process.env.ASSISTANT_ID,
-      "thread_xxxxxxxxxxxxxxx"
-    );
+    const assistant = new OpenAIAssistant(process.env.ASSISTANT_ID);
     const reply = await assistant.addMessageToThread(
+      "thread_xxxxxxxxxxxxxxx",
       "Remember the issue, what if we changed line 10?"
     );
     console.log(reply);
